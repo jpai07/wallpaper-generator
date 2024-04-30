@@ -1,0 +1,24 @@
+body {
+    display: block;
+}
+
+div {
+    max-width: auto;
+}
+
+img {
+    width: 750px;
+}
+
+button {
+    font-size: 16px;
+    background-color:cornsilk;
+    padding: 0 20px;
+    height: 35px;
+}
+
+.button-container {
+    width: auto;
+    display: flex;
+    justify-content: left;
+}
